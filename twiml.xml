@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="alice" language="ja-JP">お電話ありがとうございます。テキスト読み上げのテストです。</Say>
+    <Pause length="4" />
+    <Hangup />
+</Response>
